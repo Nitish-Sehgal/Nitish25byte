@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitish25byte
-- 👀 I’m interested in =manga and dev gaming 
-- 🌱 I’m currently learning= anamatin and shit
+- 👀 I’m interested in = a lot of stuff
+- 🌱 I’m currently learning= python
 - 💞️ I’m looking to collaborate on= 
 - 📫 How to reach me= mail me 
 
