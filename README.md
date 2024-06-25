@@ -7,7 +7,5 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 
-Nitish25byte/Nitish25byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 nitishsehgal25@gmail.com
